@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="[https://i.imgur.com/M6O4RZV.gif](https://tenor.com/es-AR/view/hollow-knight-knight-lantern-running-run-gif-1881883598400204889)" alt="Hollow Knight" width="300"/>
+  aca va un gif lindo cuando sepa ponerlos
 </p>
 
 ---
