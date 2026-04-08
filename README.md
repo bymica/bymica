@@ -1,18 +1,16 @@
 <h1 align="center">Hola! Soy Mica </h1>
-<h3 align="center">Estudiante de la Tecnicatura en Programación en la UTN (Mar del Plata)</h3>
+<h3 align="center">Estudiante de programación y ciencia de datos, orientando mi perfil hacia aplicaciones en salud digital.</h3>
+
+---
+## Formación Actual
+- **Tecnicatura en Programación** – UTN Mar del Plata (casi completada)
+- **Tecnicatura en Ciencia de Datos** – UNMDP (en curso, con equivalencias en trámite)
+- **Auxiliar de Farmacia** – Centro de Capacitación (inicio: abril 2026)
 
 ---
 
-<p align="center">
-  aca va un gif lindo cuando sepa ponerlos
-</p>
-
----
-
-## 🩵 Sobre mí  
-- 💻 Interesada en el mundo de la **tecnología y el desarrollo de software**  
-- 🌱 Me gusta aprender cosas nuevas y explorar lo visual dentro del desarrollo (aunque no sea front-end pura)  
-- 🥋 Me gusta entrenar y practicar **Brazilian Jiu-Jitsu**  
+## Enfoque  
+ Busco integrar desarrollo de software, análisis de datos y conocimiento farmacéutico para abordar problemas concretos en el ámbito de la salud.
 
 ---
 
@@ -34,5 +32,3 @@
 </p>
 
 ---
-
-
