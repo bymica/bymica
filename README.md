@@ -14,7 +14,7 @@
 
 ---
 
-## ⚙️ Lenguajes y Herramientas  
+## Lenguajes y Herramientas  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Conectemos  
+## Conectemos  
 <p align="center">
   <a href="https://www.linkedin.com/in/micaela-morano-92631b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
