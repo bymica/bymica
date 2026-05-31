@@ -4,7 +4,6 @@
 ---
 ## Formación Actual
 - **Tecnicatura en Programación** – UTN Mar del Plata (casi completada)
-- **Tecnicatura en Ciencia de Datos** – UNMDP (en curso, con equivalencias en trámite)
 - **Auxiliar de Farmacia** – Centro de Capacitación (inicio: abril 2026)
 
 ---
