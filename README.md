@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Mica </h1>
-<h3 align="center">Estudiante avanzada de Programación (UTN) apasionada por el desarrollo de software y la tecnología.</h3>
+<h3 align="center">Estudiante avanzada de Programación (UTN) orientada por el desarrollo de software y la tecnología.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UTN_Mar_del_Plata-Estudiante_Avanzada-blue?style=for-the-badge&logo=university&logoColor=white" />
@@ -45,7 +45,7 @@ Soy estudiante de programación enfocada en el ciclo completo de desarrollo de s
 
 ---
 
-## Conectemos
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/micaela-morano-92631b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
